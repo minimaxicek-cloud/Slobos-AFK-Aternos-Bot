@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Michalek2309.aternos.me:48673",
+    "ip": "Michalek2309.aternos.me",
     "port": 48673,
     "version": "",
     "try-creative": false
